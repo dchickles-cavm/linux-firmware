@@ -2756,3 +2756,18 @@ File: nvidia/tegra210/xusb.bin
 Version: v50.07
 
 Licence: Redistributable. See LICENCE.nvidia for details
+
+--------------------------------------------------------------------------
+
+Driver: liquidio -- Cavium LiquidIO driver
+
+File: liquidio/lio_210nv_nic.bin
+Version: v1.1.9
+
+File: liquidio/lio_210sv_nic.bin
+Version: v1.1.9
+
+File: liquidio/lio_410nv_nic.bin
+Version: v1.1.9
+
+Licence: Redistributable. See LICENCE.cavium for details
